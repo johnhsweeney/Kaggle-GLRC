@@ -1,2 +1,2 @@
 # Kaggle-GLRC
-Kaggle Competition Google Lardmark Recognition Challenge
+Kaggle Competition Google Landmark Recognition Challenge
